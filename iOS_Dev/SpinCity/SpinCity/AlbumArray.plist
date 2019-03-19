@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>infected Splinter</string>
+		<key>artist</key>
+		<string>Boppin´Veavers</string>
+		<key>summary</key>
+		<string>Awesome album with a hint of Oak.</string>
+		<key>price</key>
+		<real>9.99</real>
+		<key>LocationInStore</key>
+		<string>Section F</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>infected Splinter</string>
+		<key>artist</key>
+		<string>Boppin´Veavers</string>
+		<key>summary</key>
+		<string>Awesome album with a hint of Oak.</string>
+		<key>price</key>
+		<real>9.99</real>
+		<key>LocationInStore</key>
+		<string>Section F</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>infected Splinter</string>
+		<key>artist</key>
+		<string>Boppin´Veavers</string>
+		<key>summary</key>
+		<string>Awesome album with a hint of Oak.</string>
+		<key>price</key>
+		<real>9.99</real>
+		<key>LocationInStore</key>
+		<string>Section A</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>infected Splinter</string>
+		<key>artist</key>
+		<string>Boppin´Veavers</string>
+		<key>summary</key>
+		<string>Awesome album with a hint of Oak.</string>
+		<key>price</key>
+		<real>11.99</real>
+		<key>LocationInStore</key>
+		<string>Section 9 3/4</string>
+	</dict>
+</array>
+</plist>
